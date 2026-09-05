@@ -5,7 +5,7 @@ function firstWord(s) {
 	}
 	for(i=0;i<s.length;i++){
 		if(s[i]===" "){
-			return s.slice[0,i]
+			return s.slice(0,i)
 		}
 	}
 }
